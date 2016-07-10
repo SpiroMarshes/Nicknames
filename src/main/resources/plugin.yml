@@ -1,0 +1,10 @@
+name: Nicknames
+main: com.alfalfascout.Nicknames.Nicknames
+version: 0.1.0
+description: "Set nicknames for use in chat."
+
+commands:
+    nick:
+        description: Sets and unsets nicknames.
+        usage: /nick <nickname|unset>
+        aliases: [nn]
